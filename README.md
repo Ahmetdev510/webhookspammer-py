@@ -1,5 +1,8 @@
-# webhookspammer-py
-Python ile yazılmış basit webhook spammer
+# Nasıl Kurulur
 
+py -m pip install discord-webhook
 
-Kurulum: py -m pip install discord-webhook
+# Nasıl Çalıştırılır
+
+py Webhookspammer.py 
+
